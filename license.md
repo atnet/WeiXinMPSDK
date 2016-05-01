@@ -1,6 +1,10 @@
 FreeBSD License
 ```
+<<<<<<< HEAD
 Copyright (c) 2013, Jeffrey Su <www.jeffrey.su@gmail.com>
+=======
+Copyright (c) 2016, Jeffrey Su <www.jeffrey.su@gmail.com>, Suzhou Senparc Network Technology Co.,Ltd.
+>>>>>>> 1980f3cd414ed9ff5f38d91e33b366139e9c96aa
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
